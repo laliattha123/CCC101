@@ -1,0 +1,1 @@
+I develop it by following and understand the instructions carefully, by understanding the first activity 1 can easily finish the other activity. After that, I verified my solutions by doing the dry-run calculations using the given procedures. Organizing and committing my files helps me to know if I am doing the right thing and letting me know that my works are arranged.
